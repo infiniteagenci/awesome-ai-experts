@@ -80,6 +80,15 @@ Contributions welcome! Feel free to submit a pull request.
 - **Notable**: Building data infrastructure for LLM applications
 - **Social**: [@jerryjliu0](https://twitter.com/jerryjliu0)
 
+  ### Peter Steinberger
+- **Website**: [steipete.me](https://steipete.me/)
+- **Expertise**: AI-powered development tools, Claude Code workflows, agentic engineering
+- **Focus**: Self-hosting AI models, AI dev workflows, vibe coding, inference-speed development
+- **Notable**: "My Current AI Dev Workflow", "Claude Code is My Computer", "Essential Reading for Agentic Engineers"
+- **Projects**: Poltergeist (AI-friendly build watcher), llm.codes (AI-readable docs)
+- **RSS**: [steipete.me/rss.xml](https://steipete.me/rss.xml)
+- **Social**: [@steipete](https://twitter.com/steipete)
+
 ### Vinci Rufus
 - **Website**: [vincirufus.com](https://www.vincirufus.com/)
 - **Expertise**: AI agents, agentic platforms, compound engineering, context engineering
@@ -105,13 +114,6 @@ Contributions welcome! Feel free to submit a pull request.
 - **Notable**: Featured on Interconnects podcast discussing "science of prompting"
 - **Social**: [@Goodside](https://twitter.com/Goodside)
 
-### Vinci Rufus
-- **Website**: [vincirufus.com](https://www.vincirufus.com/)
-- **Expertise**: Context engineering, pre-action checks, agent workflows
-- **Focus**: Context as the next evolution beyond prompt engineering
-- **Notable**: "Context Engineering - The Evolution Beyond Prompt Engineering", agentic workflows
-- **RSS**: [vincirufus.com/rss.xml](https://www.vincirufus.com/rss.xml)
-- **Social**: [@vincirufus](https://twitter.com/vincirufus)
 
 ---
 
@@ -162,14 +164,7 @@ Contributions welcome! Feel free to submit a pull request.
 - **Notable**: 20+ years in information security
 - **Social**: [@DanielMiessler](https://twitter.com/DanielMiessler)
 
-### Vinci Rufus
-- **Website**: [vincirufus.com](https://www.vincirufus.com/)
-- **Expertise**: Software 3.0, agent UX patterns, B2A SaaS, agentic platforms
-- **Focus**: Transforming software development economics with AI agents
-- **Background**: 25+ years building web apps, Google Developer Expert, author of two technical books
-- **Notable**: "The Dawn of Agentic AI", "Voice Agents: The Natural Evolution of Human-AI Interaction"
-- **RSS**: [vincirufus.com/rss.xml](https://www.vincirufus.com/rss.xml)
-- **Social**: [@vincirufus](https://twitter.com/vincirufus)
+
 
 ---
 
