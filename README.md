@@ -80,7 +80,7 @@ Contributions welcome! Feel free to submit a pull request.
 - **Notable**: Building data infrastructure for LLM applications
 - **Social**: [@jerryjliu0](https://twitter.com/jerryjliu0)
 
-  ### Peter Steinberger
+### Peter Steinberger
 - **Website**: [steipete.me](https://steipete.me/)
 - **Expertise**: AI-powered development tools, Claude Code workflows, agentic engineering
 - **Focus**: Self-hosting AI models, AI dev workflows, vibe coding, inference-speed development
